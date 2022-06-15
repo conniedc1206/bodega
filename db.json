@@ -31,12 +31,6 @@
       "price": 2.99
     },
     {
-      "id": 7,
-      "name": "Black Beans",
-      "image": "./images/black-beans.jpeg",
-      "price": 0.89
-    },
-    {
       "id": 8,
       "image": "./images/cheese.webp",
       "name": "Shredded Cheese",
